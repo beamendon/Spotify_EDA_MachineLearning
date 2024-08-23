@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7d8d04e6-40b3-46a7-8ff1-e25968520d84)
+
 This project is focused on analyzing and predicting the popularity of songs on Spotify using various metrics. The work is divided into two main parts:
 
 1. Exploratory Data Analysis (EDA):
